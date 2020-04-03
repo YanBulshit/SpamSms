@@ -10,8 +10,8 @@ class Main:
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 		;       S P A M  S M S      ;
 		;---------------------------;
-		; Author : Kang-newbie      ;
-		; Contact : t.me/kang_nuubi ;
+		; Author : Yan Bulshit      ;
+		; Contact : t.me/NaAed_01 ;
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 1. Spam TRI
@@ -24,7 +24,7 @@ class Main:
 8. Sms Gratis PayuTerus (GUI)
 9. ALTBalaji OTP Spammer
 """)
-		pilih=int(input('/Kang-newbie: '))
+		pilih=int(input('/Yan-Bulshit: '))
 		if pilih == 1:
 			import src.sms
 		elif pilih == 2:
